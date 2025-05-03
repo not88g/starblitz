@@ -1,5 +1,4 @@
-
-![ChatGPT Image 3 мая 2025 г , 22_50_45](https://github.com/user-attachments/assets/1ff8e5f2-30cf-4940-93a8-f56f2063fdf3)
+<img src="https://i.ibb.co/5hc0Pm6F/logo-by-freezjuz.png" width="300" height="300">
 
 # 🌌 STARBLITZ
 
