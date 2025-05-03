@@ -1,7 +1,7 @@
 
 # 📘 STARBLITZ — Detailed Changelog (EN)
 
----
+--- 
 
 ## 🔸 Debut / v1 / v1.1
 **Features:**
