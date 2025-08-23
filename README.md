@@ -38,8 +38,8 @@ Reach **9999 points** to unlock the ending screen!
 
 ## 📦 Versions
 
-- **Debut/v1.1**: Simple prototype with boxes and basic shooting
-- **Beta v1.3–v2.3**: Many features added, bugs fixed, polish applied
+- **Debut/v0.1**: Simple prototype with boxes and basic shooting
+- **Beta v0.3–v0.3**: Many features added, bugs fixed, polish applied
 - **Stable v1.0**: Final version with full gameplay loop and visual polish
 
 ---
